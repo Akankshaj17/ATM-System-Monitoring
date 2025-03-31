@@ -7,20 +7,30 @@ This is a simple ATM simulation built in Python using Object-Oriented Programmin
 
 # 📌 Features
 ✅ Secure PIN Setup – Ensures account protection.
+
 ✅ Deposit Money – Add funds to your account.
+
 ✅ Withdraw Cash – Checks balance before allowing withdrawals.
+
 ✅ Check Balance – View your account balance anytime.
+
 ✅ Transaction History – Logs deposits and withdrawals for tracking.
+
 ✅ Data Validation & Security – Uses encapsulation and error handling to prevent incorrect transactions.
 
 # 🛠 Technologies Used
 🔹 Python – Core programming language.
+
 🔹 OOP (Encapsulation & Methods) – Secure and modular coding structure.
+
 🔹 Data Processing & Validation – Ensuring accuracy in financial transactions.
+
 
 # 🚀 Future Enhancements
 🔹 GUI Interface for an interactive user experience.
+
 🔹 Multi-User Accounts with different PINs.
+
 🔹 Transaction Logs with Timestamps.
 
 # Conclusion
